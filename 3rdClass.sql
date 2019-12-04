@@ -7,3 +7,11 @@ ALTER TABLE Examples.Widget
 --INSERT INTO Examples.WIDGET values ('1', 'NAME', 'PRICE', 0)
 --ALTER TABLE Examples.Widget DROP COLUMN NotNullableColumn
 SELECT * FROM Examples.Widget
+
+CREATE DATABASE MARTINN
+
+CREATE DATABASE MARTINN
+
+CREATE PERSON (
+		FirstName varchar () NOT NULL,
+		LastName varchar () NOT NULL,
