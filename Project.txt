@@ -1,0 +1,26 @@
+Lab Session:
+
+If you have:
+	> Create a template Power Point Presentation
+	> Research and gather information about the requirements of your project:
+		> What important data do you need to store?
+		> Give examples of this data
+
+
+2. STUDENT RECORD KEEPING SYSTEM DATABASE PROJECT
+
+Design goals: a student file that contains the information about student, a
+marks file, a fee file, concession/scholarship etc.
+
+Student First Name
+Student Last Name
+Student ID
+Grade
+Student Phone No.
+Student Address
+
+A marks file of the subjects
+
+Concession
+
+A fee file/stipendium
